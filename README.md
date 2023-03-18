@@ -1,7 +1,7 @@
 # Heart_Disease_Prediction_Project
 
 
-Problem Statement:
+# Problem Statement:
 
 
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an
@@ -15,7 +15,7 @@ presence of one or more risk factors such as hypertension, diabetes, hyperlipida
 already established disease) need early detection and management wherein a machine
 learning model can be of great help.
 
-Objective:
+# Objective:
 
 Our aim in this project is to build a Machine Learning model which predicts coronary heart
 disease chances. With this model, people can take needed precautions and regularly visit
@@ -29,7 +29,7 @@ Identifying the factors that impact coronary heart disease.
 Developing machine learning models to predict Chances of coronary heart disease.
 
 
-Conclusion:
+# Conclusion:
 
 In conclusion, we find that our regression equation is quite accurate (91.68%
 accuracy) in predicting the heart disease with Random Forest Regressor. People
@@ -37,11 +37,16 @@ can use it to Predict their Heart Health Status. People need to focus on their
 Physical Health, General Health, Smoking Habits, Exercises, BMI, Kidney
 Disease.
 
-Future Improvement:
+# Future Improvement:
 
 • We can make this cloud-based system.
+
 • We can use real time sensors.
+
 • We can use spark for model building as well as for analysis, which will increase the efficiency of our system.
+
 • We can make the system in mobile units.
+
 • More detailed feature engineering and feature selection will be done.
+
 • More data can be used for better prediction.
